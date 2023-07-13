@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @adekunleakinduyite
-- 👀 I’m interested in Java, JavaScript, React.JS, PHP, TypeScript, C++, C#, Node.Js and .NET projects
-- 🌱 I’m currently learning TypeScript, Node.JS and Microsoft Power Apps FX
-- 💞️ I’m looking to collaborate on Java, JavaScript, React.JS and Microsoft Power Apps projects
+- 👋 Hi, I’m Adekunle Akinduyite
+- 👀 I’m interested in JavaScript, React.JS, TypeScript, Java, C#, Node.Js, Next.Js, Microsoft Dynamics 365 and Power Platform, Azure Cloud Services, .NET Core, Machine Learning and AI projects
+- 🌱 I’m currently learning Node.JS, Next.Js, C# and .NET Core 
+- 💞️ I’m looking to collaborate on JavaScript, React.JS, TypeScript, Java, C#, Node.Js, Next.Js, Microsoft Dynamics 365 and Power Platform, Azure Cloud Services, .NET Core, Machine Learning and AI projects
 - 📫 How to reach me Linkedin https://www.linkedin.com/in/adekunle-a-akinduyite/
 
 <!---
